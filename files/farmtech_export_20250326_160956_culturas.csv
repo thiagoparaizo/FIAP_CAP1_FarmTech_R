@@ -1,0 +1,4 @@
+nome_cultura,nome_cientifico,ciclo_minimo,ciclo_maximo,temperatura_min,temperatura_max,precipitacao_min,precipitacao_max
+Mandioca,Manihot esculenta,240,540,20,27,500,800
+Feijão-Caupi,Vigna unguiculata,60,90,20,34,350,600
+Cajueiro,Anacardium occidentale,1080,10800,22.0,28.0,600.0,2500.0

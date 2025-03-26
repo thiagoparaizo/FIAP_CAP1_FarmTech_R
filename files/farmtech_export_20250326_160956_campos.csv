@@ -1,0 +1,12 @@
+nome_produtor,municipio,regiao,cultura_plantada,tipo_geometria,area_m2,area_hectare
+João Silva,Fortaleza,Litoral,Mandioca,retangular,5000,0.5
+Luiz Paulo,Cananeia,Sertão,Feijão-Caupi,retangular,1000000.0,100.0
+Paulo Cesar,Icaraí,Litoral,Feijão-Caupi,trapezoidal,6250.0,0.625
+Maria Souza,Crateús,Sertão,Feijão-Caupi,triangular,25000.0,2.5
+Euclídes Junior,Aquiráz,Litoral,Cajueiro,retangular,20000.0,2.0
+Mauro Fonseca,Aquiráz,Litoral,Cajueiro,retangular,180000.0,18.0
+Hebert Medeiros,Sobral,Sertão,Feijão-Caupi,trapezoidal,110000.0,11.0
+Thiago Silva,Fortaleza,Litoral,Mandioca,triangular,50000.0,5.0
+Silvia Mattos,Sobral,Sertão,Mandioca,circular,502654.39999999997,50.26544
+Jorge,Aquiráz,Litoral,Mandioca,retangular,20000.0,2.0
+Teste,Sobral,Sertão,Feijão-Caupi,retangular,8000.0,0.8

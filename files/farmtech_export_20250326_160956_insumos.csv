@@ -1,0 +1,12 @@
+nome_produtor,cultura_plantada,area_hectare,fertilizante_total_kg,irrigacao_metodo,irrigacao_espacamento,irrigacao_linhas,irrigacao_volume_por_metro,irrigacao_volume_total
+João Silva,Mandioca,0.5,75.0,aspersão,0,100,0.5,2500.0
+Luiz Paulo,Feijão-Caupi,100.0,11000.0,gotejamento,0.8,625,0.5,625000.0
+Paulo Cesar,Feijão-Caupi,0.625,68.75,gotejamento,0.8,98,0.5,3906.25
+Maria Souza,Feijão-Caupi,2.5,275.0,gotejamento,0.8,197,0.5,15625.0
+Euclídes Junior,Cajueiro,2.0,1000.0,aspersão,0,28,0.5,1400.0
+Mauro Fonseca,Cajueiro,18.0,9000.0,aspersão,0,85,0.5,12750.0
+Hebert Medeiros,Feijão-Caupi,11.0,1210.0,gotejamento,0.8,250,0.5,68750.0
+Thiago Silva,Mandioca,5.0,750.0,gotejamento,1.0,500,0.5,25000.0
+Silvia Mattos,Mandioca,50.26544,7539.816,gotejamento,1.0,800,0.5,203712.0
+Jorge,Mandioca,2.0,300.0,gotejamento,1.0,100,0.5,10000.0
+Teste,Feijão-Caupi,0.8,88.0,gotejamento,0.8,100,0.5,5000.0
