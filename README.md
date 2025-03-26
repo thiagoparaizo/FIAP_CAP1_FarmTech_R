@@ -1,4 +1,4 @@
-# Script R - Análise de Dados
+# Script R - file: analises_cultura_campos_insumos.R
 
 # Explicação do Script de Análise de Dados Agrícolas FarmTech
 
@@ -285,3 +285,6 @@ Esta parte do script:
 2. Cria um arquivo de texto com um resumo completo das análises
 3. Salva cada gráfico como uma imagem PNG separada, usando o mesmo timestamp
 4. Informa ao usuário quais arquivos foram gerados
+
+
+# dividir com uma linha em branco

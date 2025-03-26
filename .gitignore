@@ -1,0 +1,4 @@
+# Ignora tudo dentro do diretório 'file'
+files/**
+# Exceto os arquivos .csv
+!files/*.csv
